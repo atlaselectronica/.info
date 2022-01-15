@@ -1,1 +1,1 @@
-# read me for "https//atlaselectronica.info"
+# read me for "https://atlaselectronica.info"
